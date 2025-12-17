@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://www.huemayer.com/huemayer",
+      "statusCode": 301
+    }
+  ]
+}
